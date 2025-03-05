@@ -1,2 +1,2 @@
 # FiveM-Loadscreen-musics
-musics folder
+files folder
